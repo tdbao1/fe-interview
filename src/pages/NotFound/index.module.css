@@ -1,0 +1,11 @@
+.wrapper {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background: #fff;
+}
+
+.custom-page{
+  font-size: 2rem;
+}

@@ -1,0 +1,18 @@
+{
+  "client":{
+    "button":"button",
+    "orange":"Orange",
+    "blue":"Blue",
+    "home":"Home"
+  },
+  "home":{
+    "client":"Client",
+    "dashboard":"Dashboard",
+    "info":"TDBAO1 FE DEMO",
+    "clientPage":"Client Page",
+    "dashboardPage":"Dashboard Page"
+  },
+  "common":{
+    "notFoundPage":"Page Not Found"
+  }
+}
