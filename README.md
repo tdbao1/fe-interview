@@ -26,6 +26,6 @@ Please run this commands before any commit to format all files as per config in 
 
 This project is built with:
 
-- ReactJS, React Router, Redux Toolkit, Typescript
-- Ant Design: UI Library
-- Formik, Yup: Form library and form validation
+- ReactJS, React Router, Typescript
+- Socket.io: Handling realtime
+- i18next & react-i18next: multilingual functionality
